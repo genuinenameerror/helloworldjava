@@ -6,3 +6,9 @@ public class HelloWorld {
 		System.out.println("Buongiorno Github");
 	}
 }
+// 주석 넣기
+// 단축키 연습
+/*
+ * 이것이
+ * 주석이다 
+ * */
